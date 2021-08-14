@@ -5,6 +5,7 @@
     padding: 0;
     text-decoration: none;
     list-style: none;
+    box-sizing: border-box;
 }
 
 .title {
@@ -207,6 +208,7 @@ nav {
     text-align: center;
     margin-top: 200px;
 }
+
 
 footer {
     margin-top: 300px;
