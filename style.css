@@ -123,7 +123,6 @@ nav {
 
 .container::before {
     background: url("images/bg-section-top-desktop-1.svg") center bottom no-repeat;
-    background-size: cover;
     content: ' ';
     width: 100%;
     bottom: 100%;
